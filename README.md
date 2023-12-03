@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/kylejgillett/sounderpy/assets/100786530/2e9477c9-e36a-4163-accb-fe46780058dd" width="250">
+<img src="https://raw.githubusercontent.com/kylejgillett/steve-py/main/steve-py_logo.png" width="250">
 
 # steve-py | Space Weather Data Analysis Tool for Python
 IN DEVELOPMENT |  COPYRIGHT Kyle J Gillett, 2023
