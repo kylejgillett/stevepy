@@ -3,6 +3,7 @@
 
 # steve-py | Space Weather Data Analysis Tool for Python
 IN DEVELOPMENT |  COPYRIGHT Kyle J Gillett, 2023
+
 A Python tool that retrieves and plots satellite magnetometer and solar-wind data for Space Weather analysis 
 
 </div>
